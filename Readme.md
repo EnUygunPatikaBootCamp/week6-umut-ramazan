@@ -1,4 +1,4 @@
-#Lazy Loading ve Eager Loading arasındaki farkları yazınız.
+# Lazy Loading ve Eager Loading arasındaki farkları yazınız.
 
 ## Lazy Loading
 
